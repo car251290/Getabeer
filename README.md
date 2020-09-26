@@ -1,9 +1,10 @@
 # Getabeer
-ReactNative getabeer
+ReactNative getabeer for the lover of a beer on Friday
 
 ## Getting a beer 
 
-Looking for the perfect beer using this Application for look for a beer.
+Looking for the perfect beer using this Application for look for a beer where is near of your location or city. 
+more is friday because friday = get a beer
 
 ## Using MaterialUi
 for the design of this Application for get a better design on the iOS
