@@ -19,4 +19,5 @@ web browser and in React Navigation is that React Navigation's stack navigator p
 
 ## Native.oi
 
-NativeBase is made from effective building blocks referred to as components. The Components are constructed in pure React Native platform along with some JavaScript functionality with rich set of customisable properties.
+NativeBase is made from effective building blocks referred to as components. The Components are constructed in pure React Native platform along with some JavaScript functionality with rich set of customisable properties get better styles on the button and in the search bar with this great tool. 
+resorurce is : https://docs.nativebase.io/Components.html#button-def-headref
