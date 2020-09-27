@@ -6,8 +6,11 @@ ReactNative  for iOS and working for also bee available on Android , getabeer fo
 Looking for the perfect beer using this Application for look for a beer where is near of your location or city. 
 more is friday because friday = get a beer
 
+
 ## Using MaterialUi
 for the design of this Application for get a better design on the iOS
+for get the documentation only follow the link: https://material.io/blog
+it has cool container for the people like to make some updates on their application.
 
 ## React Native 
 
