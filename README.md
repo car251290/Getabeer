@@ -1,5 +1,5 @@
 # Getabeer
-ReactNative getabeer for the lover of a beer on Friday
+ReactNative  for iOS and working for also bee available on Android , getabeer for the lover of a beer on Friday, you can look for the place where you can get a beer.
 
 ## Getting a beer 
 
