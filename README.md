@@ -11,6 +11,8 @@ more is friday because friday = get a beer
 for the design of this Application for get a better design on the iOS
 for get the documentation only follow the link: https://material.io/blog
 it has cool container for the people like to make some updates on their application.
+I will use the style of this page for making the button, because has a better view. the resource I use in this project is 
+https://material.io/develop/ios/components/buttons
 
 ## React Native 
 
