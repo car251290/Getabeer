@@ -4,7 +4,8 @@ ReactNative  for iOS and working for also bee available on Android , getabeer fo
 ## Getting a beer 
 
 Looking for the perfect beer using this Application for look for a beer where is near of your location or city. 
-more is friday because friday = get a beer
+more is friday because friday = get a beer.
+
 # Using a ScrollView
 Using this component for the ScrollView of the elements, and the image, it is ver easy to implemented in fact reading and coding the elemnts, it the way I made it.
 because the ScrollView is a generic scrolling container that can contain multiple components and views.
