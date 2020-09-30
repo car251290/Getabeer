@@ -21,11 +21,10 @@ const BUTTON = (props) => {
       flex:0.2,
       marginTop:60,
       alignItems: 'center',
-      fontSize:40,
-      backgroundColor: '#03DAC6',
+      fontSize:10,
       padding: 1.5,
       width: 150,
-      height: 50,
+      height: 30,
       borderRadius:4,
     }, 
   });
