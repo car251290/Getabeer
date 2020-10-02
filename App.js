@@ -4,11 +4,14 @@ import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import BUTTON from './Componets/BUTTON';
 import Header from './Componets/Header';
+import { Searchbar} from 'react-native-paper';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Header></Header>
-       <Text>Get Started ordening a beer</Text>
+       <Searchbar/>
+      
+      <Header/>
+
       <BUTTON/>
     </View>
   );
