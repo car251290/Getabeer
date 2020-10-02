@@ -6,6 +6,7 @@ export default function Header() {
 return (
     <View style={styles.container}>
          <Text style ={styles.headerText}>It is beer time!</Text>
+         <Image size={24} source={require('./Images/beer-vector.jpg')}  style={styles.backgroundiconbeer}/>
         <Image size={24} source={require('./Images/home.jpg')}  style={styles.backgroundIcon}/>
       
     </View>
@@ -27,6 +28,14 @@ const styles = StyleSheet.create({
         fontWeight: "bold",
         padding: 16,
         marginTop: 50
+      },
+      backgroundiconbeer: {
+        alignItems: 'center',
+        top:20,
+        width:100,
+        height:120,
+        marginBottom:20,
+        borderColor:'blue',
       },
   });
 
