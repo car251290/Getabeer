@@ -1,3 +1,4 @@
+import { red } from '@material-ui/core/colors';
 import React from 'react';
 import { StyleSheet, Text, View, Button,Dimensions  } from 'react-native';
 
@@ -18,14 +19,15 @@ const BUTTON = (props) => {
   
   const style = StyleSheet.create({
     button: {
-      flex:0.2,
+      flex:.1,
       marginTop:60,
       alignItems: 'center',
-      fontSize:10,
       padding: 1.5,
       width: 150,
-      height: 30,
-      borderRadius:4,
+      height: 10,
+      borderRadius:7,
+      color:'#fff',fontSize:40,
+      backgroundColor: '#a9a9a9',
     }, 
   });
 
