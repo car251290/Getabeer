@@ -30,6 +30,8 @@ the search bar which will help to get the near beer store or bar location.
 
 NativeBase is made from effective building blocks referred to as components. The Components are constructed in pure React Native platform along with some JavaScript functionality with rich set of customisable properties get better styles on the button and in the search bar with this great tool. 
 resorurce is : https://docs.nativebase.io/Components.html#button-def-headref
+## For style propuse I will make it in Card images
+Cards are a great way to display information, usually containing content and actions about a single subject. Cards can contain images, buttons, text and more.
 
 ## Button 
 Button is a pure NativeBase component.
