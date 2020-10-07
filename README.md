@@ -3,6 +3,7 @@ ReactNative  for iOS and working for also bee available on Android , getabeer fo
 ## I am considering if I make this app with a tab button 
 Using bottom app bars
 Bottom app bars group primary and secondary actions at the bottom of the screen, where they are easily reachable by the user's thumb for the other page have information of beer, I am working in the looking of the UI
+https://material.io/develop/ios/components/bottomappbar
 
 ## Getting a beer 
 
