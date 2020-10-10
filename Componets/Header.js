@@ -5,7 +5,7 @@ import { StyleSheet, Text, View,Image} from 'react-native';
 export default function Header() {
 return (
     <View style={styles.container}>
-      <Image source={require('./Componets/Images/typesofbeers.jpg')}  style={styles.backgroundimage}/>
+      <Image size={40} source={require('./Images/typesofbeers.jpg')}  style={styles.backgroundimage}/>
 
          <Text style ={styles.headerText}>It is beer time!</Text>
 
@@ -29,12 +29,13 @@ const styles = StyleSheet.create({
       headerText: {
         fontSize: 30,
         fontWeight: "bold",
-        padding: 16,
+        alignItems: 'center',
+        padding: 20,
         marginTop: 50
       },
       backgroundiconbeer: {
         alignItems: 'center',
-        top:15,
+        top:20,
         width:100,
         height:120,
         marginBottom:25,
