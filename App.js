@@ -5,11 +5,12 @@ import { StyleSheet, Text, View } from 'react-native';
 import BUTTON from './Componets/BUTTON';
 import Header from './Componets/Header';
 import { Searchbar} from 'react-native-paper';
+
 export default function App() {
   return (
     <View style={styles.container}>
        <Searchbar/>
-      
+       
       <Header/>
 
       <BUTTON/>
@@ -24,4 +25,5 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+ 
 });
