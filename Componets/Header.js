@@ -1,23 +1,29 @@
 import React from 'react';
-import { StyleSheet, Text, View,Image} from 'react-native';
+import { StyleSheet, Text, View,Image,ScrollView,SafeAreaView} from 'react-native';
 
 
 export default function Header() {
 return (
-    <View style={styles.container}>
+    <SafeAreaView style={styles.container}>
+      <ScrollView style={styles.scrollView}>
       <Image size={50} source={require('./Images/typesofbeers.jpg')}  style={styles.backgroundimage}/>
 
          <Text style ={styles.headerText}>It is beer time!</Text>
-
          <Image size={24} source={require('./Images/beer-vector.jpg')}  style={styles.backgroundiconbeer}/>
         <Image size={24} source={require('./Images/home.jpg')}  style={styles.backgroundIcon}/>
-      
-    </View>
+     
+      </ScrollView>    
+  
+    </SafeAreaView>
   );
 }
 
 const styles = StyleSheet.create({
-   
+  scrollView: {
+    backgroundColor: 'white',
+    marginHorizontal: 20,
+  
+  },
     backgroundIcon:{
         alignItems: 'center',
         top:5,
