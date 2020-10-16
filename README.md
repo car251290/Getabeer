@@ -23,6 +23,9 @@ it has cool container for the people like to make some updates on their applicat
 I will use the style of this page for making the button, because has a better view. the resource I use in this project is 
 https://material.io/develop/ios/components/buttons
 
+## Coming the Firebase
+using the API of the firebase for looking for a great place to have a beer 
+
 ## React Native 
 
 React Navigation's stack navigator provides a way for your app to transition between screens and manage navigation history. If your app uses only one stack navigator then it is conceptually similar to how a web browser handles navigation state.
