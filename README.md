@@ -30,8 +30,11 @@ using the API of the firebase for looking for a great place to have a beer
 
 React Navigation's stack navigator provides a way for your app to transition between screens and manage navigation history. If your app uses only one stack navigator then it is conceptually similar to how a web browser handles navigation state.
 web browser and in React Navigation is that React Navigation's stack navigator provides the gestures and animations that you would expect on Android and iOS when navigating between routes in the stack.
+
 ## Search bar
 the search bar which will help to get the near beer store or bar location.
+Using this concept to make the search of my code more readable 
+https://callstack.github.io/react-native-paper/searchbar.html
 
 ## Native.oi
 
