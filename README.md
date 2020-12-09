@@ -46,3 +46,10 @@ Cards are a great way to display information, usually containing content and act
 ## Button 
 Button is a pure NativeBase component.
 Buttons are the integral part of an application. They are used for various purposes like, submit or reset a form, navigate, performing interactive actions such as showing or hiding something in an app on click of the button.
+
+# Language 
+React(js)
+
+# Requirements
+* Visial Studio
+* Macbook
